@@ -7,7 +7,7 @@ database:
   # Mysql JDBC driver
   driverClass: com.mysql.jdbc.Driver
   user: root
-  password:
+  password: password01
   url: jdbc:mysql://localhost/example_development
   minSize: 8
   maxSize: 32
