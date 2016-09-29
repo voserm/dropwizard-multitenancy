@@ -41,7 +41,7 @@
             <artifactId>dropwizard-multitenancy</artifactId>
             <version>0.0.1</version>
     		<scope>system</scope>
-    		<systemPath>/home/michael/IdeaProjects/hibernate_multitenancy/dropwizard-multitenancy/target/dropwizard-multitenancy-0.0.1.jar</systemPath>
+    		<systemPath>${basedir}/dropwizard-multitenancy-0.0.1.jar</systemPath>
         </dependency>
 
         <dependency>
